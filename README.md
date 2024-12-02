@@ -21,6 +21,7 @@ Sou estudante de **Engenharia de Computação** apaixonada por tecnologia, desen
 ## 🌐 Conexões
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/dutra1904)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/maria-dutra-costa-338876230)
+✉️ E-mail: [seu.email@example.com](mailto:seu.email@example.com)
 
 ---
 
