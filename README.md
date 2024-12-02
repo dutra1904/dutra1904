@@ -1,41 +1,41 @@
-# Olá! 👋 Bem-vindo ao meu perfil
+# Hello! 👋 Welcome to my profile
 
-Sou estudante de **Engenharia de Computação** apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
+I am a **Computer Engineering** student passionate about technology, software development, and continuous learning.
 
-## 🌟 Sobre mim
-- 🎓 Cursando 2º ano de Engenharia de Computação.
-- 🛠 Experiência com projetos em **Java**, **Python**, **C** e **SQL**.
-- 📚 Trabalhando atualmente em projetos que envolvem **MVC**, **redes sociais estudantis** e **jogos de batalha**.
+## 🌟 About Me
+- 🎓 Currently in my 2nd year of Computer Engineering.
+- 🛠 Experience with projects in **Java**, **Python**, **C**, and **SQL**.
+- 📚 Currently working on projects involving **MVC**, **student social networks**, and **battle games**.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=darkgreen&style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 
-
 ---
 
-## 🌐 Conexões
+## 🌐 Connections
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/dutra1904)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/maria-dutra-costa-338876230)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/maria-dutra-costa-338876230)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:dutramaria165@gmail.com)
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=dark)
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=dark)
 
 ---
 
-## 🏆 Meus Troféus
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=dutra1904&theme=onedark)
+## 🏆 My Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dutra1904&theme=onedark)
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+✨ Thank you for visiting my profile!
+
 
 <!--
 **dutra1904/dutra1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
