@@ -25,12 +25,12 @@ Sou estudante de **Engenharia de Computação** apaixonada por tecnologia, desen
 ---
 
 ## 📊 Minhas Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/dutra1904&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=dark)
 
 ---
 
 ## 🏆 Meus Troféus
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/dutra1904&theme=onedark)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=dutra1904&theme=onedark)
 
 ---
 
