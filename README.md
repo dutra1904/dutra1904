@@ -27,14 +27,6 @@ I am a **Computer Engineering** student passionate about technology, software de
 ## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=dark)
 
----
-
-## 🏆 My Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dutra1904&theme=onedark)
-
----
-
-✨ Thank you for visiting my profile!
 
 
 <!--
