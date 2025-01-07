@@ -19,7 +19,7 @@ I am a **Computer Engineering** student passionate about technology, software de
 
 ## 🌐 Connections
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/dutra1904)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/maria-dutra-costa-338876230)
+[![LinkedIn](https://www.linkedin.com/in/maria-clara-dutra-338876230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6ZyDpXM1QsiBOZ8xk8eA%2BA%3D%3D)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:dutramaria165@gmail.com)
 
 ---
