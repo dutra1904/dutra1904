@@ -5,15 +5,44 @@ I am a **Computer Engineering** student passionate about technology, software de
 ## 🌟 About Me
 - 🎓 Currently in my 2nd year of Computer Engineering.
 - 🛠 Experience with projects in **Java**, **Python**, **C**, and **SQL**.
-- 📚 Currently working on projects involving **MVC**, **student social networks**, and **battle games**.
+- 📚 Currently working on projects involving **student social networks**, and **battle games**.
 
 ---
 
 ## 🚀 Technologies and Tools
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=darkgreen&style=flat)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" height="50" alt="C">
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java">
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python">
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50" alt="MySQL">
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML">
+      <br><strong>HTML</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50" alt="Git">
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code">
+      <br><strong>VS Code</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -28,6 +57,7 @@ I am a **Computer Engineering** student passionate about technology, software de
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dutra1904&layout=compact&theme=radical)
+
 
 <!--
 **dutra1904/dutra1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
