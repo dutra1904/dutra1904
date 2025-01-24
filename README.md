@@ -26,9 +26,8 @@ I am a **Computer Engineering** student passionate about technology, software de
 
 ## 📊 My GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dutra1904&theme=radical)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dutra1904&layout=compact&theme=radical)
 
 <!--
 **dutra1904/dutra1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
