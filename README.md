@@ -11,6 +11,8 @@
 software development, and continuous learning.</span></strong>
 </p>
 
+---
+
 ## 🎇 About Me
 - 🎓 Currently in my 2nd year of Computer Engineering.
 - 🛠 Experience with projects in **Java**, **Python**, **C**, and **SQL**.
