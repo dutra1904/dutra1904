@@ -11,14 +11,12 @@
 software development, and continuous learning.</span></strong>
 </p>
 
-# 🎇 About Me
+## 🎇 About Me
 - 🎓 Currently in my 2nd year of Computer Engineering.
 - 🛠 Experience with projects in **Java**, **Python**, **C**, and **SQL**.
 - 📚 Currently working on projects involving **student social networks**, and **battle games**.
 
----
-
-# 🛰️ Technologies and Tools
+## 🛰️ Technologies and Tools
 
 <table>
   <tr>
@@ -53,8 +51,6 @@ software development, and continuous learning.</span></strong>
   </tr>
 </table>
 
----
-
 ## 💟 Connections
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/dutra1904)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/maria-clara-dutra-338876230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRO%2FwTrxlR2W5R0H7bT00gA%3D%3D)
@@ -62,7 +58,7 @@ software development, and continuous learning.</span></strong>
 
 ---
 
-# 👩🏾‍💻 My GitHub Stats
+## 👩🏾‍💻 My GitHub Stats
 
 <table>
   <tr>
