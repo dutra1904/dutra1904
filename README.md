@@ -1,15 +1,24 @@
-# Hello! 👋 Welcome to my profile
+# Hello! 💅🏾 Welcome to my profile
 
-I am a **Computer Engineering** student passionate about technology, software development, and continuous learning.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f975700-a3c4-4466-9146-22aa59c23b6c" width="300" />
+</p>
 
-## 🌟 About Me
+<p align="center">
+  <strong><span style="color:#ff79c6;">I am a Computer Engineering student passionate about technology,
+</p>
+<p align="center">
+software development, and continuous learning.</span></strong>
+</p>
+
+# 🎇 About Me
 - 🎓 Currently in my 2nd year of Computer Engineering.
 - 🛠 Experience with projects in **Java**, **Python**, **C**, and **SQL**.
 - 📚 Currently working on projects involving **student social networks**, and **battle games**.
 
 ---
 
-## 🚀 Technologies and Tools
+# 🛰️ Technologies and Tools
 
 <table>
   <tr>
@@ -46,17 +55,28 @@ I am a **Computer Engineering** student passionate about technology, software de
 
 ---
 
-## 🌐 Connections
+## 💟 Connections
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/dutra1904)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/maria-clara-dutra-338876230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRO%2FwTrxlR2W5R0H7bT00gA%3D%3D)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:dutramaria165@gmail.com)
 
 ---
 
-## 📊 My GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=radical)
+# 👩🏾‍💻 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dutra1904&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=radical" alt="GitHub Stats">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutra1904&layout=compact&theme=radical" alt="Top Langs">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/8c5f5dcb-2433-4f41-8a25-7ff6ae82117c" width="300" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
