@@ -1,7 +1,7 @@
 # Hello! 💅🏾 Welcome to my profile
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f975700-a3c4-4466-9146-22aa59c23b6c" width="300" />
+  <img src="https://github.com/user-attachments/assets/7f975700-a3c4-4466-9146-22aa59c23b6c" width="250" />
 </p>
 
 <p align="center">
