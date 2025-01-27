@@ -65,16 +65,15 @@ software development, and continuous learning.</span></strong>
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dutra1904&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=dutra1904&theme=aura&show_icons=true" alt="GitHub Stats">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutra1904&layout=compact&theme=radical" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutra1904&layout=compact&theme=aura&show_icons=true" alt="Top Langs">
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/8c5f5dcb-2433-4f41-8a25-7ff6ae82117c" width="300" alt="Coding GIF">
     </td>
   </tr>
 </table>
-
 
 
 <!--
