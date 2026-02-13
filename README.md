@@ -1,92 +1,67 @@
-# Hello! 💅🏾 Welcome to my profile
+# 👩🏾‍💻 Maria Dutra
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f975700-a3c4-4466-9146-22aa59c23b6c" width="250" />
+  <img src="https://github.com/user-attachments/assets/7f975700-a3c4-4466-9146-22aa59c23b6c" width="230" />
 </p>
 
 <p align="center">
-  <strong><span style="color:#ff79c6;">I am a Computer Engineering student passionate about technology,
-</p>
-<p align="center">
-software development, and continuous learning.</span></strong>
+  <strong>
+  Building the future with code 🚀 <br>
+  Computer Engineering Student | 19 years old
+  </strong>
 </p>
 
 ---
 
-## 🎇 About Me
-- 🎓 Currently in my 2nd year of Computer Engineering.
-- 🛠 Experience with projects in **Java**, **Python**, **C**, and **SQL**.
-- 📚 Currently working on projects involving **student social networks**, and **battle games**.
+## 🚀 About Me
 
-## 🛰️ Technologies and Tools
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" height="50" alt="C">
-      <br><strong>C</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java">
-      <br><strong>Java</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python">
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50" alt="MySQL">
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML">
-      <br><strong>HTML</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50" alt="Git">
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code">
-      <br><strong>VS Code</strong>
-    </td>
-  </tr>
-</table>
-
-## 💟 Connections
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/dutra1904)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/maria-clara-dutra-338876230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRO%2FwTrxlR2W5R0H7bT00gA%3D%3D)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:dutramaria165@gmail.com)
+🎓 2nd-year Computer Engineering student passionate about building scalable and efficient solutions.  
+💡 Curious by nature, driven by innovation, and constantly improving my technical skills.  
+🧠 Strong interest in software development, problem-solving, and system design.
 
 ---
 
-## 👩🏾‍💻 My GitHub Stats
+## 🛠️ Technical Skills
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dutra1904&theme=aura&show_icons=true" alt="GitHub Stats">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutra1904&layout=compact&theme=aura&show_icons=true" alt="Top Langs">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/8c5f5dcb-2433-4f41-8a25-7ff6ae82117c" width="300" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+### 💻 Programming Languages
+- **C**
+- **Java**
+- **Python**
+- **SQL**
 
+### 🧰 Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- MySQL  
+- HTML  
 
-<!--
-**dutra1904/dutra1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Structures & Algorithms  
+- Backend Development Concepts  
+- Software Architecture Fundamentals  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dutra1904">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/maria-clara-dutra-338876230">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:dutramaria165@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=dutra1904&theme=tokyonight&hide_border=true" />
+
