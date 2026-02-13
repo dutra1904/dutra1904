@@ -7,7 +7,7 @@
 <p align="center">
   <strong>
   Building the future with code 🚀 <br>
-  Computer Engineering Student | 19 years old
+  Computer Engineering Student
   </strong>
 </p>
 
