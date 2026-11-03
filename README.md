@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineering · Backend · Distributed Systems & IoT · Applied AI</strong><br>
+  <strong>Software Engineering · Backend · Web · Applied AI</strong><br>
   Computer Engineering student at Universidade Federal de Goiás (UFG)
 </p>
 
@@ -28,9 +28,9 @@
 
 ## About
 
-I build software that takes data from a source — a sensor, a spreadsheet, or a user request — and turns it into something an operator or a customer can act on.
+I build software that takes a raw input — a camera frame, a form, or a request in plain language — and turns it into a result someone can use.
 
-My work sits in backend services, distributed IoT, and applied AI. On the systems side, that means APIs, messaging, and time-series pipelines. On the product side, it means web applications where a language model ranks or drafts, and deterministic rules keep the outcome safe.
+My work sits in backend services, web products, and applied AI. That means APIs and interfaces where a model estimates, ranks, or drafts, and explicit rules keep the result reliable.
 
 I have hands-on experience with software development and data in corporate settings, and I serve on the board of the student association (Centro Acadêmico) at UFG, running academic and outreach work for the computing community.
 
@@ -79,16 +79,16 @@ I have hands-on experience with software development and data in corporate setti
 
 ## Selected projects
 
-### Distributed environmental monitoring
-**Problem.** A chemistry lab needs a continuous read on air quality, climate, and occupancy, with risk called out before someone has to piece the signals together by hand.
+### Feelings
+**Problem.** Reading age, emotion, and sex from a face usually means a heavy model on every camera frame, which stalls the preview, or a photo sent to a server the person never agreed to.
 
-**What I built.** An edge-to-dashboard pipeline: ESP32 nodes publish JSON over MQTT (Eclipse Mosquitto). A Java 17 / Spring Boot service ingests the stream into InfluxDB. Grafana shows the live state, and decision rules flag critical risk and environmental leaks. QoS, last-will, and keep-alive keep a dropped node visible instead of silent.
+**What I built.** A webcam app in two forms. In Python, OpenCV YuNet finds the face and DeepFace estimates age, emotion, and sex. Inference runs about every 12 frames, so the preview stays fluid while the labels update. The web version runs in the browser: the camera or an uploaded photo is analyzed locally, with models loaded from a CDN, and nothing is uploaded.
 
-**Impact.** Telemetry from the UFG chemistry lab becomes one operational view, with the failure of a device distinguishable from “nothing is wrong.”
+**Impact.** A person sees the estimate on their own machine, in real time, and the interface stays usable because the expensive step is not tied to every frame. The labels are estimates, not facts.
 
-**Stack.** `ESP32` · `MQTT` · `Spring Boot` · `InfluxDB` · `Grafana`
+**Stack.** `Python` · `OpenCV` · `DeepFace` · `JavaScript`
 
-[Repository](https://github.com/dutra1904/monitotamento)
+[Repository](https://github.com/dutra1904/feelingss)
 
 ### MenuMatch AI
 **Problem.** A delivery guest describes a meal in plain language — light, dairy-free, under a price, ready soon, in a given area. A SQL filter can enforce price and a known allergen token. It cannot interpret “light” or “dairy,” and a model must not be allowed to relax a hard constraint to return a nicer match.
@@ -101,16 +101,16 @@ I have hands-on experience with software development and data in corporate setti
 
 [Repository](https://github.com/dutra1904/MenuMatchAI)
 
-### Grade and attendance automation
-**Problem.** Approval status was a manual pass over grades and attendance in a spreadsheet: average, exam threshold, and the minimum score still needed to pass.
+### BMI calculator
+**Problem.** A BMI result is easy to misread when the form accepts bad input, or when the number arrives without the category and the distance to a healthy range.
 
-**What I built.** A Python pipeline on the Google Sheets API. Pandas reads P1–P3 and attendance, applies the approval rules, and writes status — pass, final exam, or fail — plus the minimum passing grade back to the sheet.
+**What I built.** A React 18 app on Vite. Height, weight, and age go through React Hook Form and Zod before the calculation. The screen returns the index, the category — underweight, normal, overweight, or obesity — and how much weight to lose or gain to reach the ideal range. Chakra UI keeps the form accessible, with validation messages on the field that failed.
 
-**Impact.** The rulebook runs the same way on every row, and the sheet stays the system of record instead of a one-off export.
+**Impact.** The person gets a classified result and a concrete delta, and an incomplete or invalid entry never produces a number.
 
-**Stack.** `Python` · `Pandas` · `Google Sheets API`
+**Stack.** `React` · `Vite` · `Chakra UI` · `React Hook Form` · `Zod`
 
-[Repository](https://github.com/dutra1904/challenge-teckna)
+[Repository](https://github.com/dutra1904/calories)
 
 ---
 
